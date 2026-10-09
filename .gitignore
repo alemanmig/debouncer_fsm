@@ -1,5 +1,23 @@
-# Object file
-*.o
+*.pdf
 
-# Ada Library Information
-*.ali
+# Directories
+work/
+
+# Files
+Makefile
+
+# C/C++
+bin/
+obj/
+*.o
+*.lib
+*.exe
+
+# Python
+.venv/
+venv/
+
+# Synopsys
+setup_synopsys_eda.tcsh
+setup_synopsys_eda.sh
+*.rc
